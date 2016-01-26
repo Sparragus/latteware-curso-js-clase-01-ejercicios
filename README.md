@@ -17,7 +17,7 @@ Si está incorrecto, verán un mensaje de error con una explicación en rojo sob
 Para descargar los ejercicios, escriban los siguientes comando en la Terminal.
   
 ```
-  git clone . clase-01-ejercicios
+  git clone https://github.com/Sparragus/latteware-curso-js-clase-01-ejercicios.git clase-01-ejercicios
   cd clase-01-ejercicios
   npm install
 ```
